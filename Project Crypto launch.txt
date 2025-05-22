@@ -1,4 +1,0 @@
-1. Unzip the project in 7zip
-2. Open via Visual Studio Code
-3. In the terminal, type "cd "frontend"", then "npm run dev"
-4. Click on the localhoct link and the project will open
